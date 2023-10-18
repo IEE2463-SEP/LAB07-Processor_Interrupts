@@ -16,4 +16,4 @@ En este laboratorio aprenderemos a manejar y habilitar interrupciones en procesa
 * Contenidos de la [Ayudantia 06]()
 * [Lectura07](https://github.com/IEE2463-SEP/Lecturas) IEE2463.
   
-4.- [Actividad Práctica]() desarrollada en el del Laboratorio 
+4.- [Actividad Práctica](https://github.com/IEE2463-SEP/LAB07-Processor_Interrupts/blob/main/LAB07_INterrupt.pptx) desarrollada en el del Laboratorio 
